@@ -1,0 +1,8 @@
+com\nadia\paymentservice\services\impl\PaymentServiceImpl.class
+com\nadia\paymentservice\config\KafkaAdminConfig.class
+com\nadia\paymentservice\services\PaymentService.class
+com\nadia\paymentservice\PaymentServiceApplication.class
+com\nadia\paymentservice\resource\impl\PaymentResourceImpl.class
+com\nadia\paymentservice\resource\PaymentResource.class
+com\nadia\paymentservice\config\JsonProducerConfig.class
+com\nadia\paymentservice\model\Payment.class
